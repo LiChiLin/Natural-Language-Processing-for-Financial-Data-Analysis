@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtualenv
+venv/
+.env
